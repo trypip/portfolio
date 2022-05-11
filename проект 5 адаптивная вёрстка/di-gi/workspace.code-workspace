@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\scss"
+		},
+		{
+			"path": "di-gi"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "di-gi"
+	}
+}
